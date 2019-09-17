@@ -1,5 +1,5 @@
 {
-  "name": "easy-cluster",
+  "name": "tad-cluster",
   "version": "1.0.0",
   "description": "It is a package for running node.js on built in node cluster module.",
   "main": "index.js",
