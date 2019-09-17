@@ -1,0 +1,22 @@
+{
+  "name": "easy-cluster",
+  "version": "1.0.0",
+  "description": "It is a package for running node.js on built in node cluster module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mahdi Valizadeh",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meitix/easy-cluster.git"
+  },
+  "bugs": {
+    "url": "https://github.com/meitix/easy-cluster/issues"
+  },
+  "homepage": "https://github.com/meitix/easy-cluster#readme"
+}
