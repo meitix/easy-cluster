@@ -1,7 +1,7 @@
 {
   "name": "tad-cluster",
   "version": "1.0.0",
-  "description": "It is a package for running node.js on built in node cluster module.",
+  "description": "This package will help you for running your node applicaion in cluster mode.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
